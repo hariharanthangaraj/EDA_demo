@@ -9,7 +9,7 @@ Asthma is a common chronic respiratory disease that affects millions of people w
 
 ## Dataset
 
-The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/deepayanthakur/asthma-disease-prediction). It contains information about individuals' symptoms, demographic characteristics, and asthma presence (target variable).
+The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/code/eskilie/asthma-disease-prediction/input?select=processed-data.csv) It contains information about individuals' symptoms, demographic characteristics, and asthma presence (target variable).
 
 ## Installation
 
